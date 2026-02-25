@@ -6,7 +6,7 @@
 
 @media(min-width: 375px) and (max-width: 768px) {
     h1 {
-        font-size: 20px;
+        font-size: 22px;
         line-height: 110%;
     }
 
@@ -16,8 +16,8 @@
     }
 
     h2 {
-        font-size: 16px;
-        line-height: 110%;
+        font-size: 20px;
+        line-height: 120%;
     }
 
     small {
